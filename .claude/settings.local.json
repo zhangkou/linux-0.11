@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/C5251235/data/Work/linux-0.11 -type f -exec ls -lh {})"
+    ]
+  }
+}
